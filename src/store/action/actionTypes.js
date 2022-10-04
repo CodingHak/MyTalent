@@ -1,0 +1,22 @@
+export const SAVE_USER = "SAVE_USER";
+export const CLEAR = "CLEAR";
+export const PROFILE_IMAGE = "PROFILE_IMAGE"
+export const SAVE_PRODUCT= "SAVE_PRODUCT";
+export const SAVE_CATEGORY= "SAVE_CATEGORY";
+export const SAVE_CART= "SAVE_CART";
+export const ADD_CART_ITEM= "ADD_CART_ITEM";
+export const REMOVE_CART_ITEM= "REMOVE_CART_ITEM";
+export const DECREASE_CART_QTY= "DECREASE_CART_QTY";
+export const INCREASE_CART_QTY= "INCREASE_CART_QTY";
+export const ADD_ADDRESS= "ADD_ADDRESS";
+export const DELETE_ADDRESS= "DELETE_ADDRESS";
+export const UPDATE_ADDRESS= "UPDATE_ADDRESS";
+export const ADD_WISHLIST = "ADD_WISHLIST";
+export const DELETE_WISHLIST = "DELETE_WISHLIST";
+export const ADD_CARD_DATA="ADD_CARD_DATA";
+export const ORDER_DATA="ORDER_DATA";
+export const CANCEL_DATA="CANCEL_DATA";
+export const FILTERED_DATA="FILTERED_DATA";
+export const UNFILTERED_DATA="UNFILTERED_DATA"
+
+
